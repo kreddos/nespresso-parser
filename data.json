@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Кофе Бленд Variations Nordic Black",
+    "description": "Злаковый с фруктовыми нотами\r\n",
+    "price": "48",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/n/o/nordic_black_o.png",
+    "intensity": "5 Интенсивность",
+    "group": "Лимитированная коллекция"
+  },
+  {
+    "name": "Кофе бленд Variations Nordic Almond Cake Flavoured",
+    "description": "Аромат миндального пирога. Ноты ванильного заварного крема и взбитых сливок",
+    "price": "48",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/a/l/almond-cake.png",
+    "intensity": "6 Интенсивность",
+    "group": "Лимитированная коллекция"
+  },
+  {
+    "name": "Кофе бленд Variations Nordic Cloudberry Flavoured",
+    "description": "Аромат морошки. Ноты джема с легкой кислинкой",
+    "price": "48",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/c/l/cloudberry.png",
+    "intensity": "6 Интенсивность",
+    "group": "Лимитированная коллекция"
+  },
+  {
+    "name": "Набор Festive Original 500 капсул для системы Original",
+    "description": "",
+    "price": "19 210 ₽ ",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/w/o/wo_1_4_1__1__1_1__1__1.png",
+    "intensity": "",
+    "group": "Наборы"
+  },
+  {
+    "name": "Набор Festive для системы Original 150 капсул",
+    "description": "",
+    "price": "7 200 ₽ ",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/o/l/ol_festive_sleeve.png",
+    "intensity": "",
+    "group": "Наборы"
+  },
+  {
+    "name": "Набор Barista Creations",
+    "description": "",
+    "price": "1 900 ₽ ",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/b/a/barista-creations-3--sleeves.png",
+    "intensity": "",
+    "group": "Наборы"
+  },
+  {
+    "name": "Набор Master Origin",
+    "description": "",
+    "price": "1 900 ₽ ",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/m/a/master-origin-5-sleeves.png",
+    "intensity": "",
+    "group": "Наборы"
+  },
+  {
+    "name": "Набор Variations",
+    "description": "",
+    "price": "2 100 ₽ ",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/v/a/varistions-3--sleeves_3.png",
+    "intensity": "",
+    "group": "Наборы"
+  },
+  {
+    "name": "Кофе бленд Chiaro",
+    "description": "Сладкие бисквитные\r\nноты",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/b/a/barista-chiaro-370-2019.png",
+    "intensity": "",
+    "group": "Barista Creations"
+  },
+  {
+    "name": "Кофе бленд Corto",
+    "description": "Пряные ноты",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/b/a/barista-corto-370-2019.png",
+    "intensity": "",
+    "group": "Barista Creations"
+  },
+  {
+    "name": "Кофе бленд Scuro",
+    "description": "Злаковые ноты",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/b/a/barista-scuro-370-2019.png",
+    "intensity": "",
+    "group": "Barista Creations"
+  },
+  {
+    "name": "Кофе бленд Nicaragua",
+    "description": "Сладкие ноты\r\nзлаковых",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/n/i/nicaragua-378x378.png",
+    "intensity": "5 Интенсивность",
+    "group": "Master Origin"
+  },
+  {
+    "name": "Кофе бленд India",
+    "description": "Пряные и древесные\r\nноты",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/i/n/india-378x378.png",
+    "intensity": "11 Интенсивность",
+    "group": "Master Origin"
+  },
+  {
+    "name": "Кофе бленд Colombia",
+    "description": "Винные и фруктовые ноты",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/c/o/colombia-378x378.png",
+    "intensity": "6 Интенсивность",
+    "group": "Master Origin"
+  },
+  {
+    "name": "Кофе бленд Ethiopia",
+    "description": "Ноты фруктового джема\r\nи апельсинового дерева",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/e/t/ethiopia-378x378.png",
+    "intensity": "4 Интенсивность",
+    "group": "Master Origin"
+  },
+  {
+    "name": "Кофе бленд Indonesia",
+    "description": "Древесные ноты\r\nи ноты табачных листьев",
+    "price": "38",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/i/n/indonesia-378x378.png",
+    "intensity": "8 Интенсивность",
+    "group": "Master Origin"
+  },
+  {
+    "name": "Кофе бленд Caramelito",
+    "description": "Аромат карамели",
+    "price": "42",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7628.50.png",
+    "intensity": "6 Интенсивность",
+    "group": "Variations"
+  },
+  {
+    "name": "Кофе бленд Vanilio",
+    "description": "Аромат ванили",
+    "price": "42",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7627.50.png",
+    "intensity": "6 Интенсивность",
+    "group": "Variations"
+  },
+  {
+    "name": "Кофе бленд Ciocattino",
+    "description": "Аромат горького\r\nшоколада",
+    "price": "42",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7626.50.png",
+    "intensity": "6 Интенсивность",
+    "group": "Variations"
+  },
+  {
+    "name": "Кофе бленд Envivo Lungo",
+    "description": "Сладкие древесные\r\nноты и ноты обжарки",
+    "price": "34",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/e/n/envivo_lungo.png",
+    "intensity": "9 Интенсивность",
+    "group": "Lungo"
+  },
+  {
+    "name": "Кофе бленд Linizio Lungo",
+    "description": "Солодовые,\r\nзлаковые ноты",
+    "price": "34",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7622.50.png",
+    "intensity": "4 Интенсивность",
+    "group": "Lungo"
+  },
+  {
+    "name": "Кофе бленд Vivalto Lungo",
+    "description": "Ноты обжарки,\r\nцветочные ноты",
+    "price": "34",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/8/7810.50.png",
+    "intensity": "4 Интенсивность",
+    "group": "Lungo"
+  },
+  {
+    "name": "Кофе бленд Fortissio Lungo",
+    "description": "Сладкие злаковые\r\nноты и ноты обжарки",
+    "price": "34",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/8/7834.50.png",
+    "intensity": "8 Интенсивность",
+    "group": "Lungo"
+  },
+  {
+    "name": "Кофе бленд Volluto",
+    "description": "Бисквитные,\r\nфруктовые ноты",
+    "price": "29",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/4/7435.50.png",
+    "intensity": "4 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Capriccio",
+    "description": "Злаковые\r\nноты",
+    "price": "29",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/4/7413.50.png",
+    "intensity": "5 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Livanto",
+    "description": "Карамельные\r\nноты",
+    "price": "29",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/4/7443.50.png",
+    "intensity": "6 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Roma",
+    "description": "Древесные,\r\nзлаковые ноты",
+    "price": "29",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/4/7439.50.png",
+    "intensity": "8 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Arpeggio",
+    "description": "Ноты какао,\r\nдревесные ноты",
+    "price": "29",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/4/7431.50.png",
+    "intensity": "9 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Ristretto",
+    "description": "Ноты интенсивной\r\nобжарки, фруктовые\r\nноты",
+    "price": "29",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7615.50.png",
+    "intensity": "10 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Dharkan",
+    "description": "Ноты горького какао\r\nи злаков",
+    "price": "37",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7624.50.png",
+    "intensity": "11 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Kazaar",
+    "description": "Древесные,\r\nпряные ноты",
+    "price": "37",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7623.50.png",
+    "intensity": "12 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Cosi",
+    "description": "Злаковые,\r\nфруктовые ноты",
+    "price": "29",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7624.50_2.png",
+    "intensity": "4 Интенсивность",
+    "group": "Espresso"
+  },
+  {
+    "name": "Кофе бленд Ristretto Decaffeinato",
+    "description": "Ноты интенсивной\r\nобжарки, фруктовые\r\nноты",
+    "price": "34",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7673.50_1.png",
+    "intensity": "10 Интенсивность",
+    "group": "Decaffeinato"
+  },
+  {
+    "name": "Кофе бленд Vivalto Lungo Decaffeinato",
+    "description": "Ноты обжарки,\r\nцветочные ноты",
+    "price": "37",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7646.50.png",
+    "intensity": "4 Интенсивность",
+    "group": "Decaffeinato"
+  },
+  {
+    "name": "Кофе бленд Volluto Decaffeinato",
+    "description": "Бисквитные,\r\nфруктовые ноты",
+    "price": "34",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7645.50.png",
+    "intensity": "4 Интенсивность",
+    "group": "Decaffeinato"
+  },
+  {
+    "name": "Кофе бленд Arpeggio Decaffeinato",
+    "description": "Ноты какао,\r\nдревесные ноты",
+    "price": "34",
+    "img": "https://www.nespresso.com/ru/media/catalog/product/cache/1c30df23f1db1c4d2dacb77b4a1cc774/7/6/7644.50.png",
+    "intensity": "9 Интенсивность",
+    "group": "Decaffeinato"
+  }
+]
